@@ -1,6 +1,6 @@
 # Good Eats
 
-You can view the Yerp backend here: [click here](https://github.com/mattfaircloth/Module-4-React-Project-Backend)
+You can view the Good Eats backend here: [click here](https://github.com/mattfaircloth/Module-4-React-Project-Backend)
 
 Good Eats is a web app that allows users to view nearby resturants and bars. This web application uses the GooglePlaces API and a custom back-end Rails API. Users can search for restaurants and bars based on their current location.
 
