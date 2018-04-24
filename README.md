@@ -1,5 +1,7 @@
 # Good Eats
 
+You can view a demo of Good Eats here: [Demo](https://www.youtube.com/watch?v=my3Oa415Fkk)
+
 You can view the Good Eats backend here: [click here](https://github.com/mattfaircloth/Module-4-React-Project-Backend)
 
 Good Eats is a web app that allows users to view nearby resturants and bars. This web application uses the GooglePlaces API and a custom back-end Rails API. Users can search for restaurants and bars based on their current location.
